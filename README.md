@@ -23,3 +23,19 @@ This is subjectivly my Settings so have that in mind.
 ```
 - Change the -Xmx8G to whatever RAM size u wanna allocate
 
+
+## Fix Java version mismatch
+
+Official MC:
+
+- Open File Explorer
+- Enter `C:\Users\*addyourname*\AppData\Local\Packages\Microsoft.4297127D64EC6_8wekyb3d8bbwe\LocalCache\Local\game`
+- Delete JavaCheck.jar
+
+MultiMC/PolyMC/PrismLauncher
+
+- Edit Instance
+- Settings
+- Skip Java Compatability Checks
+- Check Box
+
