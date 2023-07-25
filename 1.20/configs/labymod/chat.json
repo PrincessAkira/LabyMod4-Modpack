@@ -1,0 +1,33 @@
+{
+  "windows": [
+    {
+      "width": 300.0,
+      "height": 150.0,
+      "verticalAnchor": "BOTTOM",
+      "horizontalAnchor": "LEFT",
+      "boundsPosition": "INSIDE",
+      "x": 0.0,
+      "y": 0.0,
+      "focusedTab": 0,
+      "tabs": [
+        {
+          "config": {
+            "name": "",
+            "filters": [],
+            "global": true,
+            "chatLimit": 100,
+            "combineChatMessages": false,
+            "antiChatClear": false,
+            "chatTrust": true,
+            "configVersion": 1
+          },
+          "type": "SERVER",
+          "index": 0,
+          "configVersion": 2
+        }
+      ],
+      "configVersion": 1
+    }
+  ],
+  "configVersion": 1
+}

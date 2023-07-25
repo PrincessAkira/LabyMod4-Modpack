@@ -1,0 +1,30 @@
+{
+  "enabled": true,
+  "enhancedRenderer": true,
+  "lightning": {
+    "chunkUnloadStrategy": "SKIP",
+    "cacheLightUpdates": true,
+    "preloadLight": true,
+    "configVersion": 1
+  },
+  "entityCulling": {
+    "enabled": true,
+    "entities": {
+      "enabled": true,
+      "hideArmorStandName": true,
+      "configVersion": 1
+    },
+    "blockEntities": true,
+    "interval": {
+      "enabled": true,
+      "updateInterval": 10,
+      "configVersion": 1
+    },
+    "configVersion": 1
+  },
+  "world": {
+    "bufferedClouds": true,
+    "configVersion": 1
+  },
+  "configVersion": 1
+}

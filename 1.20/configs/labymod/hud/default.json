@@ -1,0 +1,1061 @@
+{
+  "scale": 1.0,
+  "labelColor": {
+    "value": -22016
+  },
+  "bracketColor": {
+    "value": -5592406
+  },
+  "valueColor": {
+    "value": -1
+  },
+  "formatting": "SQUARE_BRACKETS",
+  "background": {
+    "enabled": false,
+    "color": {
+      "value": 1275068416
+    },
+    "margin": 1.0,
+    "padding": 4.0,
+    "roundness": 2,
+    "configVersion": 1
+  },
+  "smoothMovement": true,
+  "itemGravity": true,
+  "configs": {
+    "date": {
+      "dateFormat": "FULL_US",
+      "customFormat": "",
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": true,
+      "parentId": "memory",
+      "configVersion": 1
+    },
+    "feet": {
+      "displayMode": "BAR",
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": true,
+      "dropzoneId": "item_bottom_right",
+      "configVersion": 1
+    },
+    "memory": {
+      "memoryType": "PERCENT",
+      "coloredNumbers": true,
+      "moreSpace": true,
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": true,
+      "parentId": "fps",
+      "configVersion": 1
+    },
+    "voicechat": {
+      "showAudioWaves": true,
+      "coloredNames": true,
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 156.0,
+      "y": 2.0,
+      "enabled": true,
+      "configVersion": 1
+    },
+    "arrow": {
+      "displayMode": "ALL",
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "ping": {
+      "averageColor": {
+        "value": -256
+      },
+      "displayAverage": false,
+      "coloredPing": true,
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "range": {
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "server_address": {
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "speed": {
+      "displayAtZeroSpeed": true,
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "BOTTOM_LEFT",
+      "x": 29.0,
+      "y": -2.0,
+      "enabled": true,
+      "configVersion": 1
+    },
+    "system_cpu_usage": {
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "saturation": {
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "spotify_track": {
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 2.0,
+      "y": 96.0,
+      "enabled": true,
+      "parentId": "clock",
+      "configVersion": 1
+    },
+    "helmet": {
+      "displayMode": "BAR",
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": true,
+      "dropzoneId": "item_middle_left",
+      "configVersion": 1
+    },
+    "legs": {
+      "displayMode": "BAR",
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": true,
+      "dropzoneId": "item_middle_right",
+      "configVersion": 1
+    },
+    "click_test": {
+      "displayAtZeroSpeed": true,
+      "singleLine": true,
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "scoreboard": {
+      "bodyTextShadow": false,
+      "bodyColor": {
+        "value": 1275068416
+      },
+      "headerTextShadow": false,
+      "headerColor": {
+        "value": 1711276032
+      },
+      "scoreColor": -43691,
+      "scoreVisibility": "VISIBLE",
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": true,
+      "dropzoneId": "scoreboard_right",
+      "configVersion": 1
+    },
+    "system_memory_usage": {
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "entity_count": {
+      "showMaxEntityCount": true,
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "chest": {
+      "displayMode": "BAR",
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": true,
+      "dropzoneId": "item_bottom_left",
+      "configVersion": 1
+    },
+    "potion": {
+      "nameColor": -1,
+      "durationColor": -1,
+      "amplifierColor": -1,
+      "leadingZero": false,
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "MIDDLE_LEFT",
+      "x": 2.0,
+      "y": -8.0,
+      "enabled": true,
+      "configVersion": 1
+    },
+    "service_tiktok": {
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "spotify": {
+      "showCover": true,
+      "minimizeIngame": true,
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_RIGHT",
+      "x": -2.0,
+      "y": 2.0,
+      "enabled": true,
+      "configVersion": 1
+    },
+    "fps": {
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 2.0,
+      "y": 2.0,
+      "enabled": true,
+      "configVersion": 1
+    },
+    "coordinates": {
+      "singleLine": false,
+      "precision": 0,
+      "compass": false,
+      "biome": false,
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "off_hand": {
+      "hideShieldWithOldSword": true,
+      "displayMode": "BAR",
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": true,
+      "dropzoneId": "item_top_left",
+      "configVersion": 1
+    },
+    "combo": {
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "service_youtube": {
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "clock": {
+      "timeFormat": "CLOCK_12",
+      "customFormat": "HH:mm:ss",
+      "customTimeZone": "",
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": true,
+      "parentId": "date",
+      "configVersion": 1
+    },
+    "keyStrokes": {
+      "pressedColor": {
+        "value": 1761607679
+      },
+      "textColor": {
+        "value": -1
+      },
+      "backgroundColor": {
+        "value": -1694498816
+      },
+      "outline": false,
+      "roundedCorners": true,
+      "transition": true,
+      "trackMouseCPS": true,
+      "keyStrokes": [
+        {
+          "key": "LEFT",
+          "x": -22.0,
+          "y": 22.0,
+          "width": 31.0
+        },
+        {
+          "key": "W",
+          "x": 0.0,
+          "y": -22.0,
+          "width": 20.0
+        },
+        {
+          "key": "D",
+          "x": 22.0,
+          "y": 0.0,
+          "width": 20.0
+        },
+        {
+          "key": "RIGHT",
+          "x": 11.0,
+          "y": 22.0,
+          "width": 31.0
+        },
+        {
+          "key": "S",
+          "x": 22.0,
+          "y": 22.0,
+          "width": 20.0
+        },
+        {
+          "key": "A",
+          "x": -22.0,
+          "y": 0.0,
+          "width": 20.0
+        }
+      ],
+      "base": "S",
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "BOTTOM_RIGHT",
+      "x": -2.0,
+      "y": -2.0,
+      "enabled": true,
+      "configVersion": 1
+    },
+    "player_count": {
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "main_hand": {
+      "displayMode": "BAR",
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": true,
+      "dropzoneId": "item_top_right",
+      "configVersion": 1
+    },
+    "biome": {
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "fdirection": {
+      "directionNumber": true,
+      "cardinalPoints": true,
+      "xzDirection": true,
+      "shortenNames": true,
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "system_battery_level": {
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "service_twitch": {
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    },
+    "afk_timer": {
+      "idleTime": 20,
+      "warningColor": {
+        "value": -43691
+      },
+      "customLabel": "",
+      "labelColor": {
+        "value": -22016
+      },
+      "bracketColor": {
+        "value": -5592406
+      },
+      "valueColor": {
+        "value": -1
+      },
+      "formatting": "SQUARE_BRACKETS",
+      "background": {
+        "enabled": false,
+        "color": {
+          "value": 1275068416
+        },
+        "margin": 1.0,
+        "padding": 4.0,
+        "roundness": 2,
+        "configVersion": 1
+      },
+      "scale": 1.0,
+      "horizontalAlignment": "AUTO",
+      "horizontalOrientation": "AUTO",
+      "verticalOrientation": "AUTO",
+      "useGlobal": true,
+      "areaIdentifier": "TOP_LEFT",
+      "x": 0.0,
+      "y": 0.0,
+      "enabled": false,
+      "configVersion": 1
+    }
+  },
+  "configVersion": 1
+}

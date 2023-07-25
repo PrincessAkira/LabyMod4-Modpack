@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "tabListIndicator": true,
+  "pushToTalkKey": "Y",
+  "inputTest": {},
+  "inputDeviceName": "Primary Sound Capture Driver",
+  "outputDeviceName": "Primary Sound Driver",
+  "inputVolume": 1.0,
+  "outputVolume": 1.0,
+  "inputInterfaceType": "Java",
+  "surroundRange": 10,
+  "volumeCompressorLevel": 15,
+  "focusVolumeIncrease": 0.2,
+  "focusVolumeDecrease": 0.8,
+  "useBackupServer": false,
+  "useTestServer": false,
+  "playerVolumes": {},
+  "configVersion": 1,
+  "configMeta": {}
+}

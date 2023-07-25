@@ -1,0 +1,222 @@
+{
+  "ingame": {
+    "performance": {
+      "fastWorldLoading": true,
+      "blurQuality": "MEDIUM",
+      "configVersion": 1
+    },
+    "mouseDelayFix": true,
+    "hudWidgets": true,
+    "disableBossBar": true,
+    "advancedChat": {
+      "enabled": true,
+      "shadow": true,
+      "background": true,
+      "draggable": true,
+      "resizeable": true,
+      "showMenuButton": true,
+      "legacyScrollbar": false,
+      "fadeInMessages": true,
+      "disableCrosshair": true,
+      "showPlayerHeads": true,
+      "showChatOnHiddenGui": true,
+      "chatPeekKey": "NONE",
+      "legacyMessageOffset": true,
+      "globalChatLimit": 100,
+      "globalCombineChatMessages": false,
+      "globalAntiChatClear": true,
+      "globalChatTrust": true,
+      "configVersion": 1
+    },
+    "inventoryBanner": true,
+    "cosmetics": {
+      "renderCosmetics": true,
+      "renderMode": "RETAINED",
+      "cloakPriority": "LABYMOD",
+      "hideCosmeticsInDistance": true,
+      "hideAfterBlocks": 4,
+      "maxCosmeticsPerPlayer": 128,
+      "onlyFriends": false,
+      "configVersion": 1
+    },
+    "emotes": {
+      "emotes": true,
+      "orderEmotesClockwise": true,
+      "showCosmeticsInWheel": false,
+      "emoteDebug": false,
+      "configVersion": 1
+    },
+    "showCapeParticles": true,
+    "replaceSkinCustomization": true,
+    "hideTotemInOffHand": true,
+    "showMyName": true,
+    "showCountryFlagBesideName": true,
+    "showUserIndicatorBesideName": true,
+    "disableSpeedFOV": true,
+    "zoom": {
+      "zoomKey": "NONE",
+      "zoomHold": false,
+      "zoomCinematic": {
+        "enabled": false,
+        "disableAfterTransition": false,
+        "configVersion": 1
+      },
+      "shouldRenderFirstPersonHand": false,
+      "scrollToZoom": false,
+      "zoomDistance": 4.0,
+      "zoomInType": "EASE_OUT",
+      "zoomInDuration": 100,
+      "zoomOutType": "EASE_IN",
+      "zoomOutDuration": 100,
+      "configVersion": 1
+    },
+    "damage": {
+      "damageColored": false,
+      "damageColor": {
+        "value": 1291780096
+      },
+      "configVersion": 1
+    },
+    "hitbox": {
+      "enabled": true,
+      "lineSize": 2.5,
+      "eyeLineColor": {
+        "value": -16777046
+      },
+      "eyeBoxColor": {
+        "value": -5636096
+      },
+      "boxColor": {
+        "value": -1
+      },
+      "configVersion": 1
+    },
+    "configVersion": 1
+  },
+  "appearance": {
+    "theme": "fancy",
+    "dynamicBackground": {
+      "enabled": true,
+      "shader": true,
+      "coloredLight": true,
+      "brightness": 2.0,
+      "blur": 0.0,
+      "resolution": 5.0,
+      "limitFpsWhenUnfocused": true,
+      "animatedTextures": true,
+      "configVersion": 1
+    },
+    "darkLoadingScreen": true,
+    "fadeOutAnimation": "FADING",
+    "labyModBranding": true,
+    "hideMenuBackground": true,
+    "cleanWindowTitle": true,
+    "socialMediaLinks": true,
+    "fixedTooltips": false,
+    "navigation": {
+      "showSingleplayer": false,
+      "showOptions": true,
+      "rememberLastTab": false,
+      "configVersion": 1
+    },
+    "customTitleScreen": true,
+    "configVersion": 1
+  },
+  "multiplayer": {
+    "classicPvP": {
+      "oldRange": true,
+      "oldSlowdown": true,
+      "oldSurvivalLayout": true,
+      "oldCreativeLayout": true,
+      "shouldRemoveRecipeBook": true,
+      "potionFix": false,
+      "oldSword": true,
+      "oldItemPosture": true,
+      "oldBow": true,
+      "oldFood": true,
+      "oldFishingRod": true,
+      "oldEquip": {
+        "enabled": true,
+        "hideIndicator": true,
+        "configVersion": 1
+      },
+      "oldHeadRotation": true,
+      "oldBackwards": true,
+      "oldSneaking": true,
+      "oldBlockBuild": true,
+      "oldHeart": true,
+      "oldDamageColor": true,
+      "oldHitbox": true,
+      "configVersion": 1
+    },
+    "serverList": {
+      "liveServerList": true,
+      "cooldown": 10,
+      "richServerList": true,
+      "niceNames": true,
+      "highQualityTextures": true,
+      "quickJoinButtons": true,
+      "friendsInServerList": true,
+      "configVersion": 1
+    },
+    "confirmDisconnect": false,
+    "showCurrentServerInfo": "DISABLED",
+    "quickPlay": false,
+    "userIndicator": {
+      "showUserIndicatorInPlayerList": true,
+      "showLabyModPlayerPercentageInTabList": true,
+      "showCountryFlagInPlayerList": true,
+      "configVersion": 1
+    },
+    "ping": {
+      "renderPing": true,
+      "exactPingColored": true,
+      "configVersion": 1
+    },
+    "serverBanner": true,
+    "customPlayerList": true,
+    "configVersion": 1
+  },
+  "notifications": {
+    "enabled": true,
+    "maxNotifications": 5,
+    "hideChatTrustToast": true,
+    "configVersion": 1
+  },
+  "other": {
+    "discord": {
+      "enabled": true,
+      "showServerAddress": true,
+      "displayAccount": true,
+      "configVersion": 1
+    },
+    "borderlessWindow": false,
+    "restoreResolution": true,
+    "anonymousStatistics": true,
+    "outOfMemoryWarnings": {},
+    "advanced": {
+      "devTools": false,
+      "enableLssDebug": false,
+      "enableFpsDebug": false,
+      "enableRefreshHotkey": false,
+      "configVersion": 1
+    },
+    "conversionAskedNamespaces": [
+      "labymod"
+    ],
+    "lastWidth": 1920,
+    "lastHeight": 1080,
+    "configVersion": 2
+  },
+  "hotkeys": {
+    "emoteWheelKey": "X",
+    "interactionMenuKey": "MIDDLE",
+    "widgetEditorKey": "RIGHT_SHIFT",
+    "friendsKey": "NONE",
+    "markerKey": "NONE",
+    "rawMouseInput": true,
+    "disableNarratorHotkey": true,
+    "configVersion": 1
+  },
+  "configVersion": 1
+}
