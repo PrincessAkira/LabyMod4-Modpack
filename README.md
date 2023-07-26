@@ -23,6 +23,9 @@ This is subjectivly my Settings so have that in mind.
 ```
 - Change the -Xmx8G to whatever RAM size u wanna allocate
 
+P.S
+If you like shadows ingame, disable Methane Mod via ModMenu or remove it from the mods folder
+
 
 ## Fix Java version mismatch
 
